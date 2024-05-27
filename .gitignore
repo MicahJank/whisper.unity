@@ -258,3 +258,7 @@ tmp/
 mono_crash.*.json
 *.blob
 CodeCoverage/
+.vsconfig
+.gitignore
+.gitignore
+Packages/manifest.json
